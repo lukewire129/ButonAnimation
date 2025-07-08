@@ -21,8 +21,9 @@
     Foreground="White"
     CornerRadius="6"
     Content="Hover Me!" />
-CornerRadius must be defined as a DependencyProperty in the HoverAnimationButton control.
 ```
+> CornerRadius must be defined as a DependencyProperty in the HoverAnimationButton control.
+
 ## 📐 Template Overview
 - **Border**
   - Hosts the main background and border visuals
