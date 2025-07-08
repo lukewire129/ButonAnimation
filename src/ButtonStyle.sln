@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{A998BC3C-8019-4822-A25C-EE2E400F22EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonStyle", "ButtonStyle\ButtonStyle.csproj", "{EE7CF2CE-9724-467D-ABBC-E0B65B1AF442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A998BC3C-8019-4822-A25C-EE2E400F22EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A998BC3C-8019-4822-A25C-EE2E400F22EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A998BC3C-8019-4822-A25C-EE2E400F22EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A998BC3C-8019-4822-A25C-EE2E400F22EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7CF2CE-9724-467D-ABBC-E0B65B1AF442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7CF2CE-9724-467D-ABBC-E0B65B1AF442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7CF2CE-9724-467D-ABBC-E0B65B1AF442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7CF2CE-9724-467D-ABBC-E0B65B1AF442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EBF0BA-D7E5-4556-B5C2-9D0B8A26727C}
+	EndGlobalSection
+EndGlobal
